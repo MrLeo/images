@@ -1,0 +1,8 @@
+{
+  "resCors.json": "origin: zhaopin.com",
+  "resHeaders.json": "Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, token\nAccess-Control-Allow-Methods: POST, GET, OPTIONS\nAccess-Control-Allow-Origin: *\nAccess-Control-Allow-Credentials: true\ncontent-type: application/json\nstatus: 200",
+  "": [
+    "resCors.json",
+    "resHeaders.json"
+  ]
+}
